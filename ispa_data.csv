@@ -1,0 +1,114 @@
+Nama,Gender,Umur,Batuk,Demam,Pilek,Sesak Napas,Radang Tenggorokan,TD sistolik (mmhg),TD diastolik (mmhg),ND (x/mnt),RR (x/mnt),S,Kategori
+Mofli,L,67,0,1,0,0,1,110,70,80,20,37.5,Non pneunomia
+Munawwir,P,45,0,1,0,0,0,110,70,80,20,37.5,Non pneunomia
+Abd. Rohman,L,25,1,1,1,1,0,110,70,80,20,38.2,pneunomia
+Hoinul Anam,L,35,1,1,0,1,1,110,70,80,18,38.5,pneunomia
+Atour Rohman,L,46,1,1,0,0,0,110,70,80,20,36.5,Non pneunomia
+Hamimah,P,66,1,1,0,1,1,110,70,80,20,38.2,pneunomia
+Lucy Mahakam,L,58,1,1,0,0,0,110,70,80,20,38.2,Non pneunomia
+Putri Fajn. M,P,56,1,1,1,1,0,110,70,80,20,38.2,pneunomia
+Rismawati Dewi,P,24,1,1,0,0,0,110,70,80,20,38.2,Non pneunomia
+Subaidah,P,87,1,1,0,0,0,110,70,80,20,38.2,Non pneunomia
+Sutimah,P,63,1,1,0,0,1,110,70,80,20,36.5,pneunomia
+Siseh,L,28,1,1,1,1,0,110,70,80,20,38.8,pneunomia
+Marhona,P,87,1,1,0,0,0,110,70,80,20,38.5,Non pneunomia
+Gina,P,65,1,1,0,0,0,110,70,80,20,37.5,Non pneunomia
+Mohammat Amin F.,L,45,1,1,0,1,0,110,70,80,20,38.5,pneunomia
+Misnati,P,28,1,1,0,0,0,110,70,80,20,38.5,Non pneunomia
+Halfa,L,14,1,1,1,0,1,110,70,80,20,38.5,pneunomia
+Hoiron,L,45,1,1,0,0,0,110,70,80,20,36.5,Non pneunomia
+Abdul Qowi,L,19,1,1,0,0,0,110,70,80,20,38.5,Non pneunomia
+Salimah,P,38,0,1,1,0,0,110,70,80,20,36.5,Non pneunomia
+Saluki,L,81,1,1,0,0,0,110,70,80,20,38.6,Non pneunomia
+Hasiseh,L,66,0,1,1,1,1,110,70,80,20,38.6,pneunomia
+Rudi Hartono,L,69,1,1,0,0,0,110,70,80,20,36.5,Non pneunomia
+Muh. Hatta,L,48,1,1,0,0,0,110,70,80,20,36.5,Non pneunomia
+Johan,L,47,1,1,0,0,0,110,70,80,20,36.5,Non pneunomia
+Tiangen,P,74,1,1,1,0,1,110,70,80,20,38.6,pneunomia
+Masduki,L,52,0,1,0,0,0,110,70,80,20,38.2,Non pneunomia
+Moh. subhan,L,52,1,1,0,0,0,110,70,80,20,36.5,Non pneunomia
+Hasyim asyari,L,48,1,1,0,1,1,110,70,80,20,38.2,pneunomia
+Hotijah,P,36,1,1,0,0,0,110,70,80,20,37.5,Non pneunomia
+Nur aini,P,33,1,1,0,0,0,110,70,80,20,37.5,Non pneunomia
+Siti romlah,P,35,1,1,1,0,0,110,70,80,20,37.5,Non pneunomia
+Ummu kulsum,P,65,1,1,0,0,1,110,70,80,20,38.8,pneunomia
+Yusuf alfarizi,L,55,0,1,0,0,0,110,70,80,20,38.2,Non pneunomia
+Abdul azis,L,79,1,1,0,0,0,110,70,80,20,38.2,Non pneunomia
+Dulkowi,L,84,1,1,0,0,0,110,70,80,20,36.5,Non pneunomia
+Jumali,L,49,1,1,0,0,0,110,70,80,20,36.5,Non pneunomia
+Winarni,P,50,1,1,1,1,1,110,70,80,20,38.8,pneunomia
+Jamal abdulloh,L,60,1,1,0,0,0,110,70,80,20,36.5,Non pneunomia
+Abdul Akbar,L,59,1,1,0,0,0,110,70,80,20,36.5,Non pneunomia
+Siti Laila,P,54,0,1,0,1,1,110,70,80,20,36.5,pneunomia
+Holisa,P,23,1,0,1,0,0,110,70,80,20,36.5,Non pneunomia
+Aisyah,P,26,1,1,0,0,0,110,70,80,20,36.5,Non pneunomia
+Karomah,P,54,1,1,0,0,0,110,70,80,20,37.5,Non pneunomia
+Putri lailatul,P,20,1,1,0,0,0,110,70,80,20,37.5,Non pneunomia
+Asmi Nur Hanifah,P,58,1,1,0,0,0,110,70,80,20,37.5,Non pneunomia
+Andika maheza,L,56,1,1,1,0,1,110,70,80,20,37.5,pneunomia
+Lela,P,49,1,1,0,0,0,110,70,80,20,37.5,Non pneunomia
+Iis hamitun,P,46,1,1,1,0,1,110,70,80,20,37.5,pneunomia
+Imroatun Hasanah,P,47,1,1,0,0,0,110,70,80,20,38.2,Non pneunomia
+Hasnah,P,46,1,1,0,0,0,110,70,80,20,38.2,Non pneunomia
+Sehroh,P,25,1,1,0,0,0,110,70,80,20,38.2,pneunomia
+Santok,L,48,0,1,0,0,0,110,70,80,20,38.2,Non pneunomia
+Budiono,L,45,1,1,0,0,0,110,70,80,20,37.5,Non pneunomia
+Laeli,P,37,1,1,0,1,1,110,70,80,20,38.7,pneunomia
+Putri Hariyati,P,26,1,1,1,1,0,110,70,80,20,38.4,pneunomia
+Ahmad Taufik,L,48,1,1,0,0,1,110,70,80,20,38.5,pneunomia
+Guntur Cahyono,L,24,1,1,1,0,1,110,70,80,20,37.5,pneunomia
+Kery Wisana,P,28,1,1,1,1,0,110,70,80,20,37.8,pneunomia
+Faiz Maulana,L,55,1,1,1,0,1,110,70,80,20,37.5,pneunomia
+Nurul Hidayah,P,63,1,1,0,0,0,110,70,80,20,37.1,Non pneunomia
+Sulastri,P,58,1,1,0,0,0,110,70,80,20,36.3,Non pneunomia
+Nasiran,L,60,1,1,0,0,0,110,70,80,20,36.5,Non pneunomia
+Hambali ,L,67,1,1,0,0,0,110,70,80,20,37.5,Non pneunomia
+Agus Heriyanto,L,49,1,1,0,1,0,110,70,80,20,38.5,pneunomia
+Darwanto,L,58,1,1,0,0,0,110,70,80,20,37.5,Non pneunomia
+Aminah,P,46,1,1,1,0,1,110,70,80,20,37.2,pneunomia
+Ali Syakur,L,37,1,1,1,1,0,110,70,80,20,38.3,pneunomia
+Mahmudah,P,38,1,1,1,0,1,110,70,80,20,38.2,pneunomia
+Darmi,P,66,1,1,0,0,1,110,70,80,20,38.5,pneunomia
+Siti Aisyah,P,32,1,1,0,1,1,110,70,80,20,37.2,pneunomia
+Darti,P,44,1,1,0,0,0,110,70,80,20,36.7,Non pneunomia
+Nur Hayati,P,34,1,1,0,0,0,110,70,80,20,38.2,pneunomia
+Bambang Wicaksono,L,50,1,1,1,1,0,110,70,80,20,38.2,pneunomia
+Taqy Rosyid,L,33,1,1,0,1,0,110,70,80,20,38.5,pneunomia
+Hesty Ningrum,P,39,1,1,1,0,1,110,70,80,20,38.9,pneunomia
+Sawaki,L,29,1,1,1,1,0,110,70,80,20,37.4,pneunomia
+Cahyono,L,55,1,1,0,1,1,110,70,80,20,37.8,pneunomia
+Sumiatun,P,67,1,1,1,0,1,110,70,80,20,38.5,pneunomia
+Siti Maemunah,P,47,1,1,1,1,1,110,70,80,20,38.8,pneunomia
+Dimas Nasruddin,L,59,1,1,0,0,1,110,70,80,20,38.5,pneunomia
+Ahmad Rafiq,L,35,1,1,0,1,0,110,70,80,20,37.5,pneunomia
+Annisatun,P,26,1,1,0,0,0,110,70,80,20,36.1,Non pneunomia
+Dodi Mulyadi,L,78,1,1,1,1,0,110,70,80,20,38.5,pneunomia
+Bambang,L,63,1,1,1,0,1,110,70,80,20,37.8,pneunomia
+Affif Ahmad Handoko,L,24,1,1,0,1,0,110,70,80,20,38.8,pneunomia
+Imam,L,48,1,1,0,0,1,110,70,80,20,38.5,pneunomia
+Doni,L,55,1,1,1,1,0,110,70,80,20,39.2,pneunomia
+Kukuh,L,62,1,1,1,1,0,110,70,80,20,38.3,pneunomia
+Farhan Ismail,L,39,1,1,0,1,0,110,70,80,20,38.7,pneunomia
+Neneng,P,35,1,1,1,0,1,110,70,80,20,38.9,pneunomia
+Priyanto,L,44,1,1,0,1,0,110,70,80,20,38.9,pneunomia
+Asih,P,40,1,1,0,0,0,110,70,80,20,36.7,Non pneunomia
+Rahman,L,40,1,1,0,1,0,110,70,80,20,37.2,pneunomia
+Endang Sumiati,P,56,1,1,1,1,1,110,70,80,20,38.9,pneunomia
+Tono,L,48,1,1,1,0,1,110,70,80,20,38.3,pneunomia
+Meliana,P,33,1,1,0,0,1,110,70,80,20,37.2,pneunomia
+Solihin,L,66,1,1,0,1,1,110,70,80,20,38.6,pneunomia
+Teguh Waluyo,L,35,1,1,0,0,1,110,70,80,20,37.6,pneunomia
+Rosman,L,42,1,1,0,0,0,110,70,80,20,36.1,Non pneunomia
+Kosiyatun,P,62,1,1,0,1,0,110,70,80,20,38.4,pneunomia
+Sri Astuti,P,72,1,1,1,1,0,110,70,80,20,39.2,pneunomia
+Ngadiman,L,71,1,1,0,1,0,110,70,80,20,38.5,pneunomia
+Sri Wahyuni,P,68,1,1,0,0,0,110,70,80,20,36.5,Non pneunomia
+Rahmat,L,48,1,1,1,1,0,110,70,80,20,38.2,pneunomia
+Arya Prasetya,L,23,1,1,1,0,1,110,70,80,20,38.4,pneunomia
+Sumanto,L,58,1,1,1,0,1,110,70,80,20,38.6,pneunomia
+Aisyah Putri,P,21,1,1,1,0,1,110,70,80,20,38.1,pneunomia
+Wanda Hamidah,P,22,1,1,0,1,1,110,70,80,20,38.2,pneunomia
+Maulana Yusuf,L,42,1,1,0,0,0,110,70,80,20,35.7,Non pneunomia
+Abdul Hamid,L,43,1,1,1,0,0,110,70,80,20,38.6,pneunomia
+Muhammad Zaki,L,52,1,1,1,1,0,110,70,80,20,38.3,pneunomia
+Sudarman,L,53,1,1,1,1,0,110,70,80,20,39.1,pneunomia
